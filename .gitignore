@@ -1,32 +1,32 @@
-/wp-admin/
-/wp-content/index.php
-/wp-content/languages
-/wp-content/plugins/index.php
-/wp-content/themes/index.php
-/wp-includes/
-/index.php
-/license.txt
-/readme.html
-/wp-*.php
-/xmlrpc.php
+/backend/wp-admin/
+/backend/wp-content/index.php
+/backend/wp-content/languages
+/backend/wp-content/plugins/index.php
+/backend/wp-content/themes/index.php
+/backend/wp-includes/
+/backend/index.php
+/backend/license.txt
+/backend/readme.html
+/backend/wp-*.php
+/backend/xmlrpc.php
 
 # Configuration
-wp-config.php
+/backendwp-config.php
 
 # Example themes
-/wp-content/themes/twenty*/
+/backend/wp-content/themes/twenty*/
 
 # Example plugin
-/wp-content/plugins/hello.php
+/backend/wp-content/plugins/hello.php
 
 # Uploads
-/wp-content/uploads/
+/backend/wp-content/uploads/
 
 # Log files
-*.log
+/backend/*.log
 
 # htaccess
-/.htaccess
+/backend/.htaccess
 
 /frontend/node_modules
 
